@@ -18,6 +18,7 @@
 4. Code Probe
  * language: [perl](https://en.wikipedia.org/wiki/Console_application) ∧ [javascript](https://en.wikipedia.org/wiki/Web_application)
  * [stateful anatomization](https://en.wikipedia.org/wiki/Static_program_analysis)
+ * language: [haskell ∨ c](https://en.wikipedia.org/wiki/Console_application) ∧ [javascript](https://en.wikipedia.org/wiki/Web_application)
  * [stateless anatomization](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
 
 ## [Ideas](https://en.wikipedia.org/wiki/List_of_software_categories) (read these bullets; 1≤ may have your name on it!)
