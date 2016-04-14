@@ -7,3 +7,6 @@
 * curlies ∨ curvies? depends on the context
   * mathematics: {[set](https://en.wikipedia.org/wiki/Set_%28mathematics%29)} ([group](https://en.wikipedia.org/wiki/Order_of_operations)) [[int](https://en.wikipedia.org/wiki/Nearest_integer_function)]
   * computer science: {[instructional](https://en.wikipedia.org/wiki/Block_%28programming%29); [scopes](https://en.wikipedia.org/wiki/Scope_%28computer_science%29)} ([parametric, arguments](https://en.wikipedia.org/wiki/Parameter_%28computer_programming%29)) [[{elemental} indices](https://en.wikipedia.org/wiki/Index#Computer_sciences)]
+* [mono](https://en.wikipedia.org/wiki/Monolith_%28disambiguation%29#Computers) ∨ [mod](https://en.wikipedia.org/wiki/Modularity)?
+ * monolithic: [performance](https://en.wikipedia.org/wiki/Benchmark_%28computing%29)
+ * modular: [maintenance](https://en.wikipedia.org/wiki/Maintenance,_repair,_and_operations)
