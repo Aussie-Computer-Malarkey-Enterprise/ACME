@@ -17,8 +17,8 @@
  * [custom](https://en.wikipedia.org/wiki/Programming_style) [beautification](https://en.wikipedia.org/wiki/Prettyprint)
 4. Code Probe
  * language: [perl](https://en.wikipedia.org/wiki/Console_application) ∧ [javascript](https://en.wikipedia.org/wiki/Web_application)
- * [Static](https://en.wikipedia.org/wiki/Static_program_analysis)
- * [Dynamic](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
+ * [Stateful Probe](https://en.wikipedia.org/wiki/Static_program_analysis)
+ * [Stateless Probe](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
 
 ## [Ideas](https://en.wikipedia.org/wiki/List_of_software_categories) (read these bullets; 1≤ may have your name on it!)
 * [mouse-menus](https://en.wikipedia.org/wiki/Context_menu) ∧ [keyboard-shortcuts](https://en.wikipedia.org/wiki/Keyboard_shortcut) = [no-gui ∨ less-ui](https://en.wikipedia.org/wiki/Cruft)
