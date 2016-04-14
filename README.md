@@ -5,6 +5,7 @@
 - [ ] Superluminal Source
 - [ ] Code Probe
 - [ ] Maya / Māyā / माया
+- [ ] MIB
 
 ## [Planned Projects](https://en.wikipedia.org/wiki/Outline_of_software)
 1. [Single File](https://en.wiktionary.org/wiki/single_file)
@@ -24,6 +25,9 @@
  * [stateless anatomization](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
 5. [Maya / Māyā / माया](https://en.wikipedia.org/wiki/Maya_%28illusion%29)
  * [bit renderer](https://en.wikipedia.org/wiki/List_of_file_formats) ∈ {plain-text, image, audio, video, PDF, TeX, WWW}
+6. [MIB (Migrating Infestive Bugs)](http://shyam.id.au/)
+ * bit bug detection/correction system
+ * <name>.<int>.mib, where int=POSIX(time)
 
 ## [Ideas](https://en.wikipedia.org/wiki/List_of_software_categories) (read these bullets; 1≤ may have your name on it!)
 * [mouse-menus](https://en.wikipedia.org/wiki/Context_menu) ∧ [keyboard-shortcuts](https://en.wikipedia.org/wiki/Keyboard_shortcut) = [no-gui ∨ less-ui](https://en.wikipedia.org/wiki/Cruft)
