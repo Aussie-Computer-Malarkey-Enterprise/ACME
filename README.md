@@ -30,6 +30,6 @@
  * monolithic: [performance](https://en.wikipedia.org/wiki/Benchmark_%28computing%29)
  * modular: [maintenance](https://en.wikipedia.org/wiki/Maintenance,_repair,_and_operations)
 * [DOTADIW](https://en.wikipedia.org/wiki/Neural_network_software)
-* Languages
+* languages
  * perl: text processing with the 1337357 regular expressions
  * javascript: web apps are more conveniently accessible (save the server!)
