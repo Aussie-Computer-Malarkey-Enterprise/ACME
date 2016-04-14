@@ -4,6 +4,7 @@
 - [ ] Code Caddy
 - [ ] Superluminal Source
 - [ ] Code Probe
+- [ ] Maya / Māyā / माया
 
 ## [Planned Projects](https://en.wikipedia.org/wiki/Outline_of_software)
 1. [Single File](https://en.wiktionary.org/wiki/single_file)
@@ -21,6 +22,8 @@
  * [stateful anatomization](https://en.wikipedia.org/wiki/Static_program_analysis)
  * language: ([haskell ∨ c](https://en.wikipedia.org/wiki/Console_application)) ∧ [javascript](https://en.wikipedia.org/wiki/Web_application)
  * [stateless anatomization](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
+5. [Maya](https://en.wikipedia.org/wiki/Maya_%28illusion%29) / Māyā / माया
+ * [bit renderer]{https://en.wikipedia.org/wiki/List_of_file_formats} ∈ {plain-text, image, audio, video, WWW, PDF, TeX}
 
 ## [Ideas](https://en.wikipedia.org/wiki/List_of_software_categories) (read these bullets; 1≤ may have your name on it!)
 * [mouse-menus](https://en.wikipedia.org/wiki/Context_menu) ∧ [keyboard-shortcuts](https://en.wikipedia.org/wiki/Keyboard_shortcut) = [no-gui ∨ less-ui](https://en.wikipedia.org/wiki/Cruft)
