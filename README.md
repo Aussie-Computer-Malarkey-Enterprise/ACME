@@ -17,7 +17,7 @@
 
 ## Languages
 * perl: text processing with the 1337357 regular expressions
-* javascript: web apps are more conveniently accessible
+* javascript: web apps are more conveniently accessible (save the server!)
 
 ## [Ideas](https://en.wikipedia.org/wiki/List_of_software_categories) (read these bullets; 1≤ may have your name on it!)
 * [mouse-menus](https://en.wikipedia.org/wiki/Context_menu) ∧ [keyboard-shortcuts](https://en.wikipedia.org/wiki/Keyboard_shortcut) = [no-gui ∨ less-ui](https://en.wikipedia.org/wiki/Cruft)
