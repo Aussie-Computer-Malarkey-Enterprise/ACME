@@ -3,6 +3,7 @@
 - [ ] Single File
 - [ ] Code Caddy
 - [ ] Superluminal Source
+- [ ] Code Probe
 
 ## [Planned Projects](https://en.wikipedia.org/wiki/Outline_of_software)
 1. [Single File](https://en.wiktionary.org/wiki/single_file)
@@ -14,6 +15,8 @@
 3. [Superluminal Source](https://en.wikipedia.org/wiki/Reverse_engineering)
  * language: [perl](https://en.wikipedia.org/wiki/Console_application) ∧ [javascript](https://en.wikipedia.org/wiki/Web_application)
  * [beautification](https://en.wikipedia.org/wiki/Prettyprint)
+4. [Code Probe](https://en.wikipedia.org/wiki/Static_program_analysis)
+ * language: [perl](https://en.wikipedia.org/wiki/Console_application) ∧ [javascript](https://en.wikipedia.org/wiki/Web_application)
 
 ## [Ideas](https://en.wikipedia.org/wiki/List_of_software_categories) (read these bullets; 1≤ may have your name on it!)
 * [mouse-menus](https://en.wikipedia.org/wiki/Context_menu) ∧ [keyboard-shortcuts](https://en.wikipedia.org/wiki/Keyboard_shortcut) = [no-gui ∨ less-ui](https://en.wikipedia.org/wiki/Cruft)
