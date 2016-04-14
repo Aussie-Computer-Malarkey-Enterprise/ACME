@@ -13,3 +13,4 @@
 * [mono](https://en.wikipedia.org/wiki/Monolith_%28disambiguation%29#Computers) ∨ [mod](https://en.wikipedia.org/wiki/Modularity)? **FIRST PROJECT!!!**
  * monolithic: [performance](https://en.wikipedia.org/wiki/Benchmark_%28computing%29)
  * modular: [maintenance](https://en.wikipedia.org/wiki/Maintenance,_repair,_and_operations)
+* [DOTADIW](https://en.wikipedia.org/wiki/Neural_network_software)
