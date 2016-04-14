@@ -1,12 +1,19 @@
 # Aussie Computer Malarkey Enterprise
 ## Completed Projects
 - [ ] Single File
+- [ ] ...
+- [ ] Superluminal Source
 
 ## [Planned Projects](https://en.wikipedia.org/wiki/Outline_of_software)
 1. [Single File](https://en.wiktionary.org/wiki/single_file)
   * language: [perl](https://en.wikipedia.org/wiki/Console_application) ∧ [javascript](https://en.wikipedia.org/wiki/Web_application)
   * port modular source to a monolithic state
+2. pending...
+  * language: [perl](https://en.wikipedia.org/wiki/Console_application) ∧ [javascript](https://en.wikipedia.org/wiki/Web_application)
   * [source compression](https://en.wikipedia.org/wiki/Minification_%28programming%29)
+3. [Superluminal Source](https://en.wikipedia.org/wiki/Reverse_engineering)
+  * language: [perl](https://en.wikipedia.org/wiki/Console_application) ∧ [javascript](https://en.wikipedia.org/wiki/Web_application)
+  * [beautification](https://en.wikipedia.org/wiki/Prettyprint)
 
 ## Languages
 * perl: text processing with the 1337357 regular expressions
