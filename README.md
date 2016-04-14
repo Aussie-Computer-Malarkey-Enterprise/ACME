@@ -22,7 +22,7 @@
  * [stateful anatomization](https://en.wikipedia.org/wiki/Static_program_analysis)
  * language: ([haskell ∨ c](https://en.wikipedia.org/wiki/Console_application)) ∧ [javascript](https://en.wikipedia.org/wiki/Web_application)
  * [stateless anatomization](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
-5. [Maya](https://en.wikipedia.org/wiki/Maya_%28illusion%29) / Māyā / माया
+5. [Maya / Māyā / माया](https://en.wikipedia.org/wiki/Maya_%28illusion%29)
  * [bit renderer](https://en.wikipedia.org/wiki/List_of_file_formats) ∈ {plain-text, image, audio, video, PDF, WWW, TeX}
 
 ## [Ideas](https://en.wikipedia.org/wiki/List_of_software_categories) (read these bullets; 1≤ may have your name on it!)
