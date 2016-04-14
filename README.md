@@ -15,7 +15,7 @@
 3. [Superluminal Source](https://en.wikipedia.org/wiki/Reverse_engineering)
  * language: [perl](https://en.wikipedia.org/wiki/Console_application) ∧ [javascript](https://en.wikipedia.org/wiki/Web_application)
  * [custom](https://en.wikipedia.org/wiki/Programming_style) [beautification](https://en.wikipedia.org/wiki/Prettyprint)
-4. [Code Probe](https://en.wikipedia.org/wiki/Close_encounter)
+4. [Code Probe](https://en.wikipedia.org/wiki/Close_encounter#Close_Encounters_of_the_Fourth_kind)
  * language: [perl](https://en.wikipedia.org/wiki/Console_application) ∧ [javascript](https://en.wikipedia.org/wiki/Web_application)
  * [stateful anatomization](https://en.wikipedia.org/wiki/Static_program_analysis)
  * language: ([haskell ∨ c](https://en.wikipedia.org/wiki/Console_application)) ∧ [javascript](https://en.wikipedia.org/wiki/Web_application)
