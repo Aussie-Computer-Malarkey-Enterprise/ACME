@@ -4,7 +4,7 @@
 
 ## [Planned Projects](https://en.wikipedia.org/wiki/Outline_of_software)
 1. [Single File](https://en.wiktionary.org/wiki/single_file)
-  * language: perl ∧ javascript
+  * language: [perl](https://en.wikipedia.org/wiki/Console_application) ∧ [javascript](https://en.wikipedia.org/wiki/Web_application)
   * port modular source to a monolithic state
   * [source compression](https://en.wikipedia.org/wiki/Minification_%28programming%29)
 
