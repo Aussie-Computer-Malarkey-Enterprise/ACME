@@ -27,7 +27,9 @@
  * [bit renderer](https://en.wikipedia.org/wiki/List_of_file_formats) ∈ {plain-text, image, audio, video, PDF, TeX, WWW}
 6. [MIB (Migrating Infestive Bugs)](http://shyam.id.au/)
  * [bit bug detection/correction system](https://en.wikipedia.org/wiki/Error_detection_and_correction)
- * \<filename\>.\<int\>.mib, where int=POSIX(time)
+ * \<filename\>.\<time\>.mib, where time ∈ [INT](https://youtu.be/QJQ691PTKsA)/[POSIX](https://en.wikipedia.org/wiki/Unix_time), YYYY-MM-DD, YYYY-MM}
+  * [daily vs monthly](https://en.wikipedia.org/wiki/General_medical_examination)
+ * \<filename\>.mib, time ∈ {file header}
 
 ## [Ideas](https://en.wikipedia.org/wiki/List_of_software_categories) (read these bullets; 1≤ may have your name on it!)
 * [mouse-menus](https://en.wikipedia.org/wiki/Context_menu) ∧ [keyboard-shortcuts](https://en.wikipedia.org/wiki/Keyboard_shortcut) = [no-gui ∨ less-ui](https://en.wikipedia.org/wiki/Cruft)
