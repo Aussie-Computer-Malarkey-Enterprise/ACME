@@ -32,6 +32,7 @@
  * \<filename\>.mib, {file header} ∋
    * time
     * score: number of bugs, high enough score requires human attention (variable threshold)
+     * maybe any reported bug requires human attention...
 
 ## [Ideas](https://en.wikipedia.org/wiki/List_of_software_categories) (read these bullets; 1≤ may have your name on it!)
 * [mouse-menus](https://en.wikipedia.org/wiki/Context_menu) ∧ [keyboard-shortcuts](https://en.wikipedia.org/wiki/Keyboard_shortcut) = [no-gui ∨ less-ui](https://en.wikipedia.org/wiki/Cruft)
