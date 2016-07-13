@@ -1,7 +1,7 @@
 # Aussie Computer Malarkey Enterprise
 ## [Completed Products](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 - [ ] Single File
-- [ ] Code Caddy
+- [ ] [Code Caddy](http://shyam.id.au/tp/wysiwyg/)
 - [ ] Superluminal Source
 - [ ] Code Probe
 - [ ] Maya / Māyā / माया
