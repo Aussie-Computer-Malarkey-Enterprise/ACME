@@ -73,7 +73,7 @@ We could write a [language shell](https://en.wikipedia.org/wiki/Read%E2%80%93eva
 
 [Syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting) is a useful way to learn a language; or a parser, assembler, compiler, interpreter, et cetera...
 
-Here are some things that I plan on developing: ACME
+Here are some things that I plan on developing: [ACME](https://github.com/Aussie-Computer-Malarkey-Enterprise/ACME)
 
 #### 31 August 2016 at 00:32 (17 minutes ago)
 This is my old failed student group: [RMIT OUA Bachelor Of Technology Students](https://github.com/ROBOTS-WAREZ)
