@@ -31,22 +31,22 @@ We should think in terms of [domains](https://en.wikipedia.org/wiki/Programming_
 
 #### 30 August 2016 at 23:53 (56 minutes ago)
 Some more places to look for inspiration:
-‣ [Technology](https://en.wikipedia.org/wiki/Template:Technology)
-‣ [Emerging Technology](https://en.wikipedia.org/wiki/Template:Emerging_technologies)
-‣ [Fictional Technology](https://en.wikipedia.org/wiki/Fictional_technology)
+<br>‣ [Technology](https://en.wikipedia.org/wiki/Template:Technology)
+<br>‣ [Emerging Technology](https://en.wikipedia.org/wiki/Template:Emerging_technologies)
+<br>‣ [Fictional Technology](https://en.wikipedia.org/wiki/Fictional_technology)
 
 We could do something with [Stereoscopy](https://en.wikipedia.org/wiki/Template:Stereoscopy):
-‣ [Autostereograms](https://en.wikipedia.org/wiki/Autostereogram); search for "3D Sterogram Tetris", that's something I was looking into a few years back.
-‣ [Anagliph 3D](https://en.wikipedia.org/wiki/Anaglyph_3D#Anaglyphic_color_channels); the link is to the various colour channels, we could write a conversion app, for example.
+<br>‣ [Autostereograms](https://en.wikipedia.org/wiki/Autostereogram); search for "3D Sterogram Tetris", that's something I was looking into a few years back.
+<br>‣ [Anagliph 3D](https://en.wikipedia.org/wiki/Anaglyph_3D#Anaglyphic_color_channels); the link is to the various colour channels, we could write a conversion app, for example.
 
 I'm interested in [3D reconstruction](https://en.wikipedia.org/wiki/3D_reconstruction).
-Imagine any number of microphones (okay maybe it needs >1 for triangulated depth perception).
-[Echolocation](https://en.wikipedia.org/wiki/Echolocation) c̄ 1+ℤ microphones.
-And using the auditory feedback to paint a 3D visualisation.
-It involves the triangulation of multiple microphones for orientation determination.
-I want to be able to fly around in the 3D representation.
-This has low costs, but the costs do exists (for those of us who do not possess microphones; but we will be required to obtain at least 2 for the project).
-Think of each microphone as a satellite, and the 3D environment surrounding the microphones as the observable universe, and the sound waves as photonic emanations from star systems...
+<br>Imagine any number of microphones (okay maybe it needs >1 for triangulated depth perception).
+<br>[Echolocation](https://en.wikipedia.org/wiki/Echolocation) c̄ 1+ℤ microphones.
+<br>And using the auditory feedback to paint a 3D visualisation.
+<br>It involves the triangulation of multiple microphones for orientation determination.
+<br>I want to be able to fly around in the 3D representation.
+<br>This has low costs, but the costs do exists (for those of us who do not possess microphones; but we will be required to obtain at least 2 for the project).
+<br>Think of each microphone as a satellite, and the 3D environment surrounding the microphones as the observable universe, and the sound waves as photonic emanations from star systems...
 
 [Binaural Beats](https://en.wikipedia.org/wiki/Binaural_beats) is another fascination I have.
 
