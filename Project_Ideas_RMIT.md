@@ -82,3 +82,17 @@ The WebLog was somebody elses idea, but they didn't want to contribute; I was tr
 
 #### 31 August 2016 at 00:33 (16 minutes ago)
 I'm going to add all of this to ACME; one of these days I'll get around to all of it...
+
+#### 31 August 2016 at 15:04 (4 minutes ago)
+KK.
+
+Here are some more resources to consider...
+
+[Draft Programming Tasks](http://rosettacode.org/wiki/Category:Draft_Programming_Tasks) (tasks that are underdeveloped)
+<br>[Programming Tasks](https://rosettacode.org/wiki/Category:Programming_Tasks) (tasks that are well-defined with solutions)
+
+[Other websites](http://rosettacode.org/wiki/Help:Similar_Sites) besides RosettaCode.Org
+
+Tools:
+<br>[Collaborative Coding](https://codeshare.io/)
+<br>[Linguistic Exercises](https://rosettacode.org/wiki/Category:Simple)
