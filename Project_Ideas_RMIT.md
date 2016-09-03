@@ -52,7 +52,7 @@ I'm interested in [3D reconstruction](https://en.wikipedia.org/wiki/3D_reconstru
 
 And then there's multiphasic [spectral analysis](https://en.wikipedia.org/wiki/Spectral_analysis)...
 
-\<afterthough: one_microphone("order in a circular fashion"), two_microphones("decide based on nearby results, should be smooth", "can find the location of the microphones by initial wave for distance, and use the echo for location"), sound_waves("inaudible frequencies", "alternating throughout the ranges to avoid conflicts of interest", "only time will tell the distance")\>
+\<afterthough: one_microphone("order in a circular fashion as received"), two_microphones("decide based on nearby results, should be smooth", "can find the location of the microphones by initial wave for distance, and use the echo for location"), sound_waves("inaudible frequencies", "alternating throughout the ranges to avoid conflicts of interest", "only time will tell the distance")\>
 
 #### 31 August 2016 at 00:00 (49 minutes ago)
 My attempt at exhausting all possibilities is probably futile..?
