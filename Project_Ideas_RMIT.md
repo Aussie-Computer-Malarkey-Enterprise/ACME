@@ -52,6 +52,8 @@ I'm interested in [3D reconstruction](https://en.wikipedia.org/wiki/3D_reconstru
 
 And then there's multiphasic [spectral analysis](https://en.wikipedia.org/wiki/Spectral_analysis)...
 
+<afterthough: one_microphone("order in a circular fashion"), two_microphones("decide based on nearby results, should be smooth", "can find the location of the microphones by initial wave for distance, and use the echo for location")>
+
 #### 31 August 2016 at 00:00 (49 minutes ago)
 My attempt at exhausting all possibilities is probably futile..?
 
@@ -82,6 +84,16 @@ The WebLog was somebody elses idea, but they didn't want to contribute; I was tr
 
 #### 31 August 2016 at 00:33 (16 minutes ago)
 I'm going to add all of this to ACME; one of these days I'll get around to all of it...
+
+#### 31 August 2016 at 13:20 (4 days ago)
+The BCI project I proposed is just like the LEAP project; but using brainwaves, instead of gestures.
+
+The echolocation project I proposed is just like the 3D Spatio-temporal Visualisation project; but using ordinary microphones and the sound waves they measure, instead of arbitrary "big data" from somewhere in the clouds.
+
+<afterthough: those LEAP gestures may be sound waves?>
+
+#### 31 August 2016 at 14:31 (4 days ago)
+The echolocation project could be done with Python for all I care; all it requires is to interface with the microphones, and process the signal just like submarines perform echolocation using Sonar, for which I am sure there are readily available algorithms for us to take advantage of.
 
 #### 31 August 2016 at 15:04 (4 minutes ago)
 KK.
